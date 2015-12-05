@@ -1,2 +1,2 @@
-# Security
-A repo dedicated to understanding security and authorisation
+# Authorisation
+A repo dedicated to understanding authorisation
